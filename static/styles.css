@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+}
+
+.hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("DALL·E 2022-08-31 23.14.05.png");
+    padding-top: 10%;
+    padding-bottom: 17%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media only screen and (min-width: 992px) {
+.row{
+    text-align: left;
+}
